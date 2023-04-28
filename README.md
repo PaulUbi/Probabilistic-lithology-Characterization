@@ -1,4 +1,4 @@
-# Probabilistic-lithology-Characterization
+# Probabilistic-Lithology-Characterization-ML
 
 Accurate characterization of the lithology is essential to optimize all drilling parameters and to minimize the drilling cost. Various methods have been used previously for predicting lithology using well log data. However, the use of drilling data for lithology predicting received only a little attention. Here, I have developed a Random Forest model to determine the probability of the existence of certain lithofacies as a function of drilling data (i.e. depth (D), Rotation per minute at drill bit  (BIT_RPM), Pump total stroke rate (STRATESUM), Surface Torque Average (TORQUE), Depth averaged rotation per minute (ROP_AVG), Pump pressure (PUMP),  weight on bit (WOB), Effective circulating density on bit (ECDBIT), Total gas content (TOTGAS), and Mud flow out (FLOWOUT)).
 
